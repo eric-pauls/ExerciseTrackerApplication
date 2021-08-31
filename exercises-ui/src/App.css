@@ -1,0 +1,112 @@
+.body {
+  color: #e9c46a;
+  background-color: #2a9d8f;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  padding: relative; 
+  border-collapse: collapse;
+}
+
+.input-label{
+  font-size: large;
+  font-family: 'Courier New'
+}
+
+.form{
+  font-size: xxx-large;
+  font-family: 'Courier New';
+  color: #1b3742;
+  background-color: #f4a261;
+  width: 100%;
+  margin: auto;
+
+}
+
+.caption{
+font-size: 40px;
+font-family: "Arial";
+color: white;
+width: 1000px;
+}
+
+.table{
+  border-collapse: collapse;
+  width: 95%;
+  padding: 1%;
+}
+
+.td{
+  color: #264653;
+  border-collapse: collapse;
+  background-color: #e9c46a;
+  border: 1 px dotted black;
+  padding: 1%;
+}
+
+.tr{
+background-color: gray;
+font-size: 30 px
+}
+
+.th{
+  color: #264653;
+  background-color: #f4a261;
+  padding: 1%;
+}
+
+.submit-button{
+background-color: rgb(241, 241, 233);
+position: relative;
+}
+
+.link{
+  color: #e9c46a;
+}
+
+
+.fieldset{
+  background-color: gray;
+  border: 1 px solid black;
+  font-family: "Arial";
+}
+
+.legend{
+  background-color: rgba(49, 43, 43, 0.63);
+  font-family: "Arial";
+}
+
+.label{
+font-family: "Arial";
+}
+
+.input{
+  font-family: "Arial";
+  background-color: gray;
+
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #c28e46;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+}
+
+.h1{
+  font: 'Courier New';
+  font-size: xxx-large;
+}
+
